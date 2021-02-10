@@ -1,8 +1,8 @@
-<h2>👩🏻‍💻Julia's github</h3>
-------------------------
+<h2>👩🏻‍💻Julia's github</h2>
+
 </br>
 
-<h3> 📚Language📚</h3>
+<h3> 📚Language</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
