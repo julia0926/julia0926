@@ -1,4 +1,4 @@
-<h2>👩🏻‍💻Julia's github</h2>
+<h1>👩🏻‍💻Julia's github</h1>
 
 </br>
 
