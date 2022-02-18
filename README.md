@@ -11,11 +11,11 @@
 <h3>🛠 My Tech </h3>
 
 <p>
+<img src="https://img.shields.io/badge/ iOS-000000?style=flat-square&logo=iOS&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apple-FA243C?style=flat-square&logo=Apple&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 </p>
 <br><br>
 
