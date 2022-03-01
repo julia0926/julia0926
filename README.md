@@ -23,6 +23,5 @@
 <!-- 
   <a href="https://github.com/julia0926">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julia0926&layout=compact&title_color=487eb0" /> <br> <br> -->
-<!--   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kj980926"> -->
-
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kj980926">
 </div>
