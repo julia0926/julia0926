@@ -9,6 +9,6 @@
 </p>
   
 ### ✏️ Study
-<img src="https://img.shields.io/badge/Notion-FFFFFF?style=round-square&logo=Notion&logoColor=black"/>
+<a href="https://julia0926.notion.site/StudyNote-e4b75a726145482e8305d39331163a7f"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=round-square&logo=Notion&logoColor=black"/>
   
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kj980926">
